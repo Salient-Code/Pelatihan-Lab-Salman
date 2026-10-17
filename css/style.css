@@ -1,0 +1,16 @@
+p {
+  color: #464545;
+  line-height: 1.6;
+}
+
+.navbar {
+ display: flex;
+ align-items: center;
+ justify-content: space-between ;
+ gap: 24px;
+
+}
+
+.navbar a {
+    text-decoration: none;
+}
